@@ -4,4 +4,4 @@ git states
 2.modified---files are Modified git knows it But can't do anything about it
 3.staged---git has marked this file for the next snapshot
 4.commited--snapshot.
-5.prakash
+5.arun
